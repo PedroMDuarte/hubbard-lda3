@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/5859/PedroMDuarte/hubbard-lda3.png)](http://dx.doi.org/10.5281/zenodo.12780)
+
 
 ## Implementation of the local density approximation in the 3D Fermi-Hubbard model
 
